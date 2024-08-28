@@ -1,4 +1,4 @@
-### Cartesia Developer Showcase
+<img width="821" alt="Screenshot 2024-08-28 at 3 21 21 PM" src="https://github.com/user-attachments/assets/ec96d1cf-262f-4001-99bd-5d3d2a042a19">
 
 Welcome to the Cartesia Developer Showcase! This repository highlights innovative projects built using Cartesia's cutting-edge text-to-speech (TTS) technology. Explore how developers are leveraging Cartesia's API to create engaging, accessible, and powerful applications across various domains.
 
