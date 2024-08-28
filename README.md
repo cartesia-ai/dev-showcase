@@ -1,6 +1,6 @@
 ### Cartesia Developer Showcase
 
-Welcome to the Cartesia Developer Showcase! This repository highlights innovative projects built using Cartesia's cutting-edge text-to-speech (TTS) technology. Explore how developers are leveraging Cartesia's API to create engaging, accessible, and powerful applications across various domains.
+Welcome to the Cartesia Developer Showcase! This repository highlights innovative projects built using Sonic, our cutting edge text-to-speech model. Explore the many creative ways developers are leveraging Cartesia's API today.
 
 ## Table of Contents
 
@@ -11,12 +11,12 @@ Welcome to the Cartesia Developer Showcase! This repository highlights innovativ
 - [Resources](#resources)
 
 ## About Cartesia
-Cartesia is a leading provider of text-to-speech solutions, offering high-quality, natural-sounding voices with low latency and accurate pronunciation. Our API enables developers to integrate advanced TTS capabilities into their applications seamlessly.
+Cartesia is a leading provider of real-time audio models and offers the fastest, ultra-realistic generative voice API with Sonic.
 
 ## Featured Projects
-Here are some of the exciting projects built with Cartesia:
+Here are some exciting projects users have already submitted:
 
-PhonePal: A web call real-time translator so you can talk to anyone no matter the language.
+Phonepal: A real-time call translator so you can eliminate language barriers when talking to anyone over the web
 
 StudyPal: A buddy that helps you learn the most important information from research papers.
 
@@ -25,26 +25,24 @@ Each project folder contains its own README with setup instructions, code sample
 ## Getting Started with Cartesia
 To start building with Cartesia:
 
-Sign up for a Cartesia account at [https://www.cartesia.io](https://cartesia.ai/)
+1. Sign up for a Cartesia account at [https://www.cartesia.ai](https://cartesia.ai/)
  
-Obtain your API key from the developer dashboard
+2. Obtain your API key from the developer dashboard
 
-Install the Cartesia SDK for your preferred programming language
+3. Install the Cartesia SDK for your preferred programming language
 
-Check out our [quickstart guide](https://docs.cartesia.ai/getting-started/dev-quickstart) for a simple integration example
+4. Check out our [quickstart guide](https://docs.cartesia.ai/getting-started/dev-quickstart) for a simple integration example
 
 ## Contributing
 We welcome contributions to this showcase! If you've built something amazing with Cartesia, follow these steps to submit your project:
 
-Fork this repository
+1. Fork this repository
 
-Create a new folder for your project
+2. Create a new folder for your project
 
-Add your project files, including a detailed README
+3. Add your project files, including a detailed README
 
-Submit a pull request with a description of your project
-
-Please ensure your project adheres to our contribution guidelines.
+4. Submit a pull request with a description of your project
 
 ## Resources
 
