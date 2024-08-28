@@ -4,15 +4,11 @@ Welcome to the Cartesia Developer Showcase! This repository highlights innovativ
 
 ## Table of Contents
 
-About Cartesia
-
-Featured Projects
-
-Getting Started with Cartesia
-
-Contributing
-
-Resources
+- [About Cartesia](#about-cartesia)
+- [Featured Projects](#featured-projects)
+- [Getting Started with Cartesia](#getting-started-with-cartesia)
+- [Contributing](#contributing)
+- [Resources](#resources)
 
 ## About Cartesia
 Cartesia is a leading provider of text-to-speech solutions, offering high-quality, natural-sounding voices with low latency and accurate pronunciation. Our API enables developers to integrate advanced TTS capabilities into their applications seamlessly.
