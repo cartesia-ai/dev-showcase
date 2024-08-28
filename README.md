@@ -5,9 +5,13 @@ Welcome to the Cartesia Developer Showcase! This repository highlights innovativ
 ## Table of Contents
 
 About Cartesia
+
 Featured Projects
+
 Getting Started with Cartesia
+
 Contributing
+
 Resources
 
 ## About Cartesia
@@ -17,6 +21,7 @@ Cartesia is a leading provider of text-to-speech solutions, offering high-qualit
 Here are some of the exciting projects built with Cartesia:
 
 PhonePal: A web call real-time translator so you can talk to anyone no matter the language.
+
 StudyPal: A buddy that helps you learn the most important information from research papers.
 
 Each project folder contains its own README with setup instructions, code samples, and demonstrations.
@@ -25,16 +30,22 @@ Each project folder contains its own README with setup instructions, code sample
 To start building with Cartesia:
 
 Sign up for a Cartesia account at [https://www.cartesia.io](https://cartesia.ai/)
+ 
 Obtain your API key from the developer dashboard
+
 Install the Cartesia SDK for your preferred programming language
+
 Check out our [quickstart guide](https://docs.cartesia.ai/getting-started/dev-quickstart) for a simple integration example
 
 ## Contributing
 We welcome contributions to this showcase! If you've built something amazing with Cartesia, follow these steps to submit your project:
 
 Fork this repository
+
 Create a new folder for your project
+
 Add your project files, including a detailed README
+
 Submit a pull request with a description of your project
 
 Please ensure your project adheres to our contribution guidelines.
@@ -42,9 +53,13 @@ Please ensure your project adheres to our contribution guidelines.
 ## Resources
 
 [Cartesia Documentation](https://docs.cartesia.ai/)
+
 [API Reference](https://docs.cartesia.ai/api-reference)
+
 [Cartesia Blog](https://cartesia.ai/blog)
+
 [Community Forum](https://discord.com/invite/gAbbHgdyQM)
 
 For support, reach out to our team at support@cartesia.ai or join our Discord community.
+
 Happy building with Cartesia!
