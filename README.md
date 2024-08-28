@@ -1,4 +1,4 @@
-### Cartesia Developer Showcase
+![dev_showcase_720](https://github.com/user-attachments/assets/40ee2c8e-2ff0-46b2-9fa1-a23f78815be6)
 
 Welcome to the Cartesia Developer Showcase! This repository highlights innovative projects built using Sonic, our cutting edge text-to-speech model. Explore the many creative ways developers are leveraging Cartesia's API today.
 
@@ -16,11 +16,10 @@ Cartesia is a leading provider of real-time audio models and offers the fastest,
 ## Featured Projects
 Here are some exciting projects users have already submitted:
 
-Phonepal: A real-time call translator so you can eliminate language barriers when talking to anyone over the web
+- [PhonePal](https://github.com/cartesia-ai/dev-showcase/tree/main/PhonePal): A real-time call translator so you can eliminate language barriers when talking to anyone over the web
+- [StudyPal](https://github.com/cartesia-ai/dev-showcase/tree/main/studypal): A buddy that helps you learn the most important information from research papers.
 
-StudyPal: A buddy that helps you learn the most important information from research papers.
-
-Each project folder contains its own README with setup instructions, code samples, and demonstrations.
+Each project folder contains its own README with setup instructions and code samples.
 
 ## Getting Started with Cartesia
 To start building with Cartesia:
