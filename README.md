@@ -23,6 +23,7 @@ Welcome to the Cartesia Developer Showcase! This repository highlights innovativ
 
 ## Table of Contents
 
+- [Table of Contents](#table-of-contents)
 - [About Cartesia](#about-cartesia)
 - [Featured Projects](#featured-projects)
 - [Getting Started with Cartesia](#getting-started-with-cartesia)
@@ -37,6 +38,7 @@ Here are some exciting projects users have already submitted:
 
 - [PhonePal](https://github.com/cartesia-ai/dev-showcase/tree/main/PhonePal): A real-time call translator so you can eliminate language barriers when talking to anyone over the web
 - [StudyPal](https://github.com/cartesia-ai/dev-showcase/tree/main/studypal): A buddy that helps you learn the most important information from research papers.
+- [NextjsPlayground](https://github.com/cartesia-ai/dev-showcase/tree/main/NextjsPlayground): A modern web application template built with Next.js, showcasing integration of Cartesia's voice API in a React environment.
 
 Each project folder contains its own README with setup instructions and code samples.
 
